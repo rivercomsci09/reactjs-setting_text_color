@@ -24,3 +24,26 @@
 .ml-30 {
   margin-left: 30px;
 }
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+span {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.active {
+  border: solid 3px black;
+}
+
+#content {
+  padding: 10px;
+  border: solid 3px black;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
